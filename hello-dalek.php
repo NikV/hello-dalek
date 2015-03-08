@@ -19,11 +19,18 @@ function hello_dalek_get_quotes() {
 	I am and always will be the optimist. The hoper of far-flung hopes and the dreamer of improbable dreams. - Reboot Season 6, Episode 6
 	You think you know your own name? How stupid are you? - Reboot Season 1, Episode 4
 	Never say never ever. - Reboot Season 2, Episode 11
-	As we learn about each other, so we learn about ourselves. - Original Season 1, Episode 3";
+	As we learn about each other, so we learn about ourselves. - Original Season 1, Episode 3
+	I'm a very dangerous fellow when I don't know what I'm doing. - Original Season 17, Episode 1
+	Something's going on contrary to the laws of the universe. I must find out what! - Original Season 13, Episode 5
+	Well, I'll tell you something that should be of vital interest to you. That you, sir, are a NITWIT! - Original Season 7, Episode 4";
 
 	$quotes = explode( "\n", $quotes );
 	return wptexturize( $quotes[ mt_rand( 0, count( $quotes ) - 1 ) ] );
 }
+
+/**
+ * The main function
+ */
 function hello_dalek() {
 	$chosen_quote = hello_dalek_get_quotes();
 	echo "<p id='dalek'>$chosen_quote</p>";
