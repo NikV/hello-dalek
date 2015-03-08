@@ -1,6 +1,12 @@
 <?php
 /**
  * Plugin Name: Hello Dalek
+ * Description: Quotes from Dr. Who. Need I say more?
+ * Author: Nikhil Vimal
+ * Author URI: http://nik.techvoltz.com
+ * Version: 1.0
+ * Plugin URI:
+ * License: GNU GPLv2+
  */
 
 function hello_dalek_get_quotes() {
