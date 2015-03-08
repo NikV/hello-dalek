@@ -16,7 +16,10 @@ function hello_dalek_get_quotes() {
 	Sometimes the only choices you have are bad ones. But you still have to choose. - Reboot Season 8, Episode 8
 	Life depends on change, and renewal. - Original Season 4, Episode 3
 	You want weapons? We're in a library! Books! The best weapons in the world! - Reboot Season 2, Episode 2
-	I am and always will be the optimist. The hoper of far-flung hopes and the dreamer of improbable dreams. - Reboot Season 6, Episode 6";
+	I am and always will be the optimist. The hoper of far-flung hopes and the dreamer of improbable dreams. - Reboot Season 6, Episode 6
+	You think you know your own name? How stupid are you? - Reboot Season 1, Episode 4
+	Never say never ever. - Reboot Season 2, Episode 11
+	As we learn about each other, so we learn about ourselves. - Original Season 1, Episode 3";
 
 	$quotes = explode( "\n", $quotes );
 	return wptexturize( $quotes[ mt_rand( 0, count( $quotes ) - 1 ) ] );
