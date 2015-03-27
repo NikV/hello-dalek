@@ -53,6 +53,7 @@ function hello_dalek_get_quotes() {
 	There's no such thing as an ordinary human. - Reboot Season 3, Episode 6
 	We're at the end of the universe. Okay?! Right at the edge of knowledge itself! Any you're busy... blogging! - Reboot Season 3, Episode 11
 	I have a thing. It's like a plan, but with more greatness. - Reboot Season 5, Episode 10";
+
 	$quotes = explode( "\n", $quotes );
 	return wptexturize( $quotes[ mt_rand( 0, count( $quotes ) - 1 ) ] );
 }
