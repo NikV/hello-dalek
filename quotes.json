@@ -47,6 +47,42 @@
       "doctor" : "Second",
       "actor" : "Patrick Troughton",
       "episode" : "The Mind Robber (Season 6, Episode 2)"
+    },
+    {
+      "quote" : "I do tend to get involved.",
+      "doctor" : "Second",
+      "actor" : "Patrick Troughton",
+      "episode" : "The War Games (Season 6, Episode 7)"
+    },
+    {
+      "quote" : "I reversed the polarity of the neutron flow.",
+      "doctor" : "Third",
+      "actor" : "Jon Pertwee",
+      "episode" : "The Sea Devils (Season 9, Episode 3)"
+    },
+    {
+      "quote" : "It's all quite simple — I am he and he is me!",
+      "doctor" : "Third",
+      "actor" : "Jon Pertwee",
+      "episode" : "The Three Doctors (Season 10, Episode 1)"
+    },
+    {
+      "quote" : "Allow me to congratulate you, sir. You have the most totally closed mind that I've ever encountered.",
+      "doctor" : "Third",
+      "actor" : "Jon Pertwee",
+      "episode" : "Frontier in Space (Season 10, Episode 3)"
+    },
+    {
+      "quote" : "Courage isn't just a matter of not being frightened, you know. It's being afraid and doing what you have to do anyway.",
+      "doctor" : "Third",
+      "actor" : "Jon Pertwee",
+      "episode" : "Planet of the Daleks (Season 10, Episode 4)"
+    },
+    {
+      "quote" : "A straight line may be the shortest distance between two points, but it is by no means the most interesting.",
+      "doctor" : "Third",
+      "actor" : "Jon Pertwee",
+      "episode" : "The Time Warrior (Season 11, Episode 1)"
     }
   ]
 }
