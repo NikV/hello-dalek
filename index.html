@@ -93,7 +93,7 @@
         <script type="text/javascript">
             (function(){
                 var timestamp = Math.floor(Date.now() / 1000);
-                var dalekjson = "https://raw.githubusercontent.com/NikV/hello-dalek/gh-pages/quotes.json?v=" + timestamp;
+                var dalekjson = "http://hellodalek.com/quotes.json?v=" + timestamp;
                 $.getJSON(dalekjson, {})
                     .done(function(data){
                         data = data.quotes;
