@@ -92,10 +92,10 @@
         <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
         <script type="text/javascript">
             (function(){
-                var dalekjson = "https://raw.githubusercontent.com/NikV/hello-dalek/gh-pages/quotes.json?v=1";
+                var timestamp = Math.floor(Date.now() / 1000);
+                var dalekjson = "https://raw.githubusercontent.com/NikV/hello-dalek/gh-pages/quotes.json?v=" + timestamp;
                 $.getJSON(dalekjson, {})
                     .done(function(data){
-                    	console.log(data);
                         data = data.quotes;
                         var properties = Object.keys(data);
                         var index = Math.floor(Math.random() * properties.length);
