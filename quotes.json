@@ -5,6 +5,48 @@
       "doctor" : "First",
       "actor" : "William Hartnell",
       "episode" : "An Unearthly Child (Season 1, Episode 1)"
+    },
+    {
+      "quote" : "Fear makes companions of us all.",
+      "doctor" : "First",
+      "actor" : "William Hartnell",
+      "episode" : "An Unearthly Child (Season 1, Episode 1)"
+    },
+    {
+      "quote" : "As we learn about each other, so we learn about ourselves.",
+      "doctor" : "First",
+      "actor" : "William Hartnell",
+      "episode" : "The Edge of Destruction (Season 1, Episode 3)"
+    },
+    {
+      "quote" : "So you're my replacements. Humph. A dandy and a clown.",
+      "doctor" : "First",
+      "actor" : "William Hartnell",
+      "episode" : "The Three Doctors (Season 10, Episode 1)"
+    },
+    {
+      "quote" : "Slower! SLOWER! Concentrate on one thing! ONE thing!",
+      "doctor" : "Second",
+      "actor" : "Patrick Troughton",
+      "episode" : "The Power of the Daleks (Season 4, Episode 3)"
+    },
+    {
+      "quote" : "Life depends on change, and renewal.",
+      "doctor" : "Second",
+      "actor" : "Patrick Troughton",
+      "episode" : "The Power of the Daleks (Season 4, Episode 3)"
+    },
+    {
+      "quote" : "People spend all their time making nice things and then other people come along and break them.",
+      "doctor" : "Second",
+      "actor" : "Patrick Troughton",
+      "episode" : "The Enemy of the World (Season 5, Episode 4)"
+    },
+    {
+      "quote" : "We're nowhere. It's as simple as that.",
+      "doctor" : "Second",
+      "actor" : "Patrick Troughton",
+      "episode" : "The Mind Robber (Season 6, Episode 2)"
     }
   ]
 }
