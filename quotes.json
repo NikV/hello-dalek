@@ -83,6 +83,120 @@
       "doctor" : "Third",
       "actor" : "Jon Pertwee",
       "episode" : "The Time Warrior (Season 11, Episode 1)"
-    }
+    },
+    {
+      "quote" : "You may be a doctor. But I'm the Doctor. The definite article, you might say.",
+      "doctor" : "Fourth",
+      "actor" : "Tom Baker",
+      "episode" : "Robot (Season 12, Episode 1)"
+    },
+    {
+      "quote" : "There's no point being grown-up if you can't be childish sometimes.",
+      "doctor" : "Fourth",
+      "actor" : "Tom Baker",
+      "episode" : "Robot (Season 12, Episode 1)"
+    },
+    {
+      "quote" : "Homo sapiens. What an inventive, invincible species.",
+      "doctor" : "Fourth",
+      "actor" : "Tom Baker",
+      "episode" : "The Ark in Space (Season 12, Episode 2)"
+    },
+    {
+      "quote" : "Excuse me, can you help me? I'm a spy.",
+      "doctor" : "Fourth",
+      "actor" : "Tom Baker",
+      "episode" : "Genesis of the Daleks (Season 12, Episode 4)"
+    },
+    {
+      "quote" : "I'm a Time Lord... I'm not a human being; I walk in eternity...",
+      "doctor" : "Fourth",
+      "actor" : "Tom Baker",
+      "episode" : "Pyramids of Mars (Season 13, Episode 3)"
+    },
+    {
+      "quote" : "Something's going on contrary to the laws of the universe. I must find out what!",
+      "doctor" : "Fourth",
+      "actor" : "Tom Baker",
+      "episode" : "Pyramids of Mars (Season 13, Episode 3)"
+    },
+    {
+      "quote" : "If you don't stop wallowing in self-pity, I'll bite your nose.",
+      "doctor" : "Fourth",
+      "actor" : "Tom Baker",
+      "episode" : "The Brain of Morbius (Season 13, Episode 5)"
+    },
+    {
+      "quote" : "You thought I was dead, didn't you? You're always making that mistake.",
+      "doctor" : "Fourth",
+      "actor" : "Tom Baker",
+      "episode" : "The Brain of Morbius (Season 13, Episode 5)"
+    },
+    {
+      "quote" : "You humans have got such limited, little minds. I don't know why I like you so much.",
+      "doctor" : "Fourth",
+      "actor" : "Tom Baker",
+      "episode" : "The Masque of Mandragora (Season 14, Episode 1)"
+    },
+    {
+      "quote" : "All right! I confess, I confess. I confess to your being a bigger idiot than I thought.",
+      "doctor" : "Fourth",
+      "actor" : "Tom Baker",
+      "episode" : "The Deadly Assassin (Season 14, Episode 3)"
+    },
+    {
+      "quote" : "Answers are easy. It's asking the right questions which is hard.",
+      "doctor" : "Fourth",
+      "actor" : "Tom Baker",
+      "episode" : "The Face of Evil (Season 14, Episode 4)"
+    },
+    {
+      "quote" : "I'm the Doctor. Who are you, and why are you shooting at me?",
+      "doctor" : "Fourth",
+      "actor" : "Tom Baker",
+      "episode" : "The Face of Evil (Season 14, Episode 4)"
+    },
+    {
+      "quote" : "To the rational mind, nothing is inexplicable; only unexplained.",
+      "doctor" : "Fourth",
+      "actor" : "Tom Baker",
+      "episode" : "The Robots of Death (Season 14, Episode 5)"
+    },
+    {
+      "quote" : "Where's your joy in life? Where's your optimism?",
+      "doctor" : "Fourth",
+      "actor" : "Tom Baker",
+      "episode" : "The Armageddon Factor (Season 16, Episode 6)"
+    },
+    {
+      "quote" : "Sometimes my brilliance astonishes even me.",
+      "doctor" : "Fourth",
+      "actor" : "Tom Baker",
+      "episode" : "The Invisible Enemy (Season 15, Episode 2)"
+    },
+    {
+      "quote" : "I'm a very dangerous fellow when I don't know what I'm doing.",
+      "doctor" : "Fourth",
+      "actor" : "Tom Baker",
+      "episode" : "Destiny of the Daleks (Season 17, Episode 1)"
+    },
+    {
+      "quote" : "I wouldn't make a very good criminal, would I?",
+      "doctor" : "Fourth",
+      "actor" : "Tom Baker",
+      "episode" : "City of Death (Season 17, Episode 2)"
+    },
+    {
+      "quote" : "Don't cross your bridges before they're hatched.",
+      "doctor" : "Fourth",
+      "actor" : "Tom Baker",
+      "episode" : "The Leisure Hive (Season 17, Episode 5)"
+    },
+    {
+      "quote" : "What can't be cured must be endured... Oh don't listen to me. I never do.",
+      "doctor" : "Fourth",
+      "actor" : "Tom Baker",
+      "episode" : "The Keeper of Traken (Season 18, Episode 6)"
+    },
   ]
 }
