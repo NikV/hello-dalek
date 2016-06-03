@@ -20,8 +20,12 @@ html, body {
     background: #1f2d4c;
     height: 200px;
     text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
 
 .footer .logo {
     width: 400px;
+    margin: 38px;
 }
