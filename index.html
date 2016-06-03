@@ -96,6 +96,7 @@
                 var dalekjson = "quotes.json?v=" + timestamp;
                 $.getJSON(dalekjson, {})
                     .done(function(data){
+                        console.log(data);
                         data = data.quotes;
                         var properties = Object.keys(data);
                         var index = Math.floor(Math.random() * properties.length);
