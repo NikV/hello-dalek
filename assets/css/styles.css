@@ -7,3 +7,12 @@ html {
     -o-background-size: cover;
     background-size: cover;
 }
+
+.header {
+    text-align: center;
+    padding: 25px;
+}
+
+.header .logo {
+    width: 400px;
+}
