@@ -25,11 +25,13 @@ html, body {
     padding-top: 15%;
 }
 
-.quote-txt-container h1.quote-content {
+.quote-txt-container blockquote.quote-content {
     font-weight: 300;
     font-size: 22px;
     color: #FFF;
     line-height: 1.5em;
+    margin-top: 1em;
+    padding-right: 0;
 }
 
 img.hellodalek-logo {
