@@ -1,5 +1,10 @@
 /*csslint adjoining-classes: false, ids: false, important: false*/
 
+html, body {
+    background: #3a496c;
+    padding: 0;
+}
+
 .content {
     background: #3a496c;
 }
