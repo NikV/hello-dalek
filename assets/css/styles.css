@@ -8,12 +8,20 @@ html, body {
 
 .content {
     background: #3a496c;
+    margin: 0 auto;
 }
 
 .divider {
     background: #121e37;
     height: 120px;
     text-align: center;
+    position: fixed;
+    bottom: 200px;
+    width: 100%;
+}
+
+.divider img {
+    margin: 20px;
 }
 
 .footer {
