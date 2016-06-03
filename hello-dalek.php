@@ -51,7 +51,7 @@ function hello_dalek_get_quotes() {
 	The paper's slightly psychic, makes them see whatever I want them to see. - Reboot Season 1, Episode 2
 	I love a happy medium! - Reboot Season 1, Episode 3
 	There's no such thing as an ordinary human. - Reboot Season 3, Episode 6
-	We're at the end of the universe. Okay?! Right at the edge of knowledge itself! Any you're busy... blogging! - Reboot Season 3, Episode 11
+	We're at the end of the universe. Okay?! Right at the edge of knowledge itself! And you're busy... blogging! - Reboot Season 3, Episode 11
 	I have a thing. It's like a plan, but with more greatness. - Reboot Season 5, Episode 10";
 
 	$quotes = explode( "\n", $quotes );
