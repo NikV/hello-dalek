@@ -1,21 +1,5 @@
 /*csslint adjoining-classes: false, ids: false, important: false*/
 
-html {
-    background: url('../img/background.jpg') no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-}
-
-.header {
-    padding: 25px;
-}
-
-.header .logo {
-    width: 400px;
-}
-
 .content {
     background: #3a496c;
 }
@@ -30,4 +14,8 @@ html {
     background: #1f2d4c;
     height: 200px;
     text-align: center;
+}
+
+.footer .logo {
+    width: 400px;
 }
